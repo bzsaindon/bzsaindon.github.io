@@ -1,2 +1,4 @@
 # bzsaindon.github.io
-#this is the read me - read me
+#descrioption
+
+This is a portfolio space to showacase my work.
