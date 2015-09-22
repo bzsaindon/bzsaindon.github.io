@@ -1,4 +1,4 @@
 # bzsaindon.github.io
-#descrioption
+#description
 
 This is a portfolio space to showacase my work.
